@@ -1,8 +1,8 @@
 git command help manual
 ==================
-*git常用命令*
-from : [http://www.cnblogs.com/cspku/articles/Git_cmds.html](http://www.cnblogs.com/cspku/articles/Git_cmds.html)
-Markdown语法：[https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)
+*git常用命令*<br/>
+from : [http://www.cnblogs.com/cspku/articles/Git_cmds.html](http://www.cnblogs.com/cspku/articles/Git_cmds.html)<br/>
+Markdown语法：[https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)<br/>
 
 项目开发中常用命令
 ----------------
