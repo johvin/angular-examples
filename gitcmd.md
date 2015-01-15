@@ -2,9 +2,21 @@ git command help manual
 ==================
 *git常用命令*
 
-### 项目开发中常用命令
+项目开发中常用命令
+----------------
+
+### create a new local repository
+		touch README.md
+		git init
+		git status
+		git add README.md
+		git commit -m "first commit"
+		git remote add origin \<url\>
+		git push origin master
 
 
+git详细命令用法
+--------------------
 
 ### 查看、添加、提交、删除、找回，重置修改文件
 
