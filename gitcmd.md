@@ -1,6 +1,8 @@
 git command help manual
 ==================
 *git常用命令*
+from : [http://www.cnblogs.com/cspku/articles/Git_cmds.html](http://www.cnblogs.com/cspku/articles/Git_cmds.html)
+Markdown语法：[https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md](https://github.com/guoyunsky/Markdown-Chinese-Demo/blob/master/README.md)
 
 项目开发中常用命令
 ----------------
@@ -11,7 +13,7 @@ git command help manual
 		git status
 		git add README.md
 		git commit -m "first commit"
-		git remote add origin \<url\>
+		git remote add origin <url>
 		git push origin master
 
 
